@@ -1,0 +1,1 @@
+export { ResolutionsServiceFactory } from './ResolutionsServiceFactory';
